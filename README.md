@@ -29,3 +29,10 @@ Unzip it first, then upload all individual files together.
 The custom domain file is already configured for:
 
 www.tusfumbanda.org
+
+## V8 update
+
+- Replaced the ocean hero image with the brighter TUSF community group photo.
+- Cropped the image for desktop and mobile while keeping the group centered.
+- Added a stronger dark overlay for readable white text.
+- Kept the photo in warm, natural color to emphasize welcome and community.
