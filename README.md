@@ -36,3 +36,10 @@ www.tusfumbanda.org
 - Cropped the image for desktop and mobile while keeping the group centered.
 - Added a stronger dark overlay for readable white text.
 - Kept the photo in warm, natural color to emphasize welcome and community.
+
+
+WEBSITE PACKAGE — CLEAN VERSION
+- Main page: index.html
+- Removed duplicate index(2).html and index-tusf-com-loja.html
+- Google Tag Manager GTM-NZ9F63HS included in index.html
+- Botânica do Axé Loja link included in index.html
